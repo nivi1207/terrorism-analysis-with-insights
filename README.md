@@ -1,9 +1,11 @@
 # terrorism-analysis-with-insights
 This Project is done with Python in the usage of dash 
-It contains the details of some attack happened in different parts of the country , from the year(1970-2018)
+
+
+It contains the details of some attack happened in different parts of the world , from the year(1970-2018)
 
 When we run the code a web-page appear and in that we can initially see two tabs namely
- 1. Map Tool    2.Chart Tool
+ 1. Map Tool         2.Chart Tool
  
  Under Map tool we can see two more subtabs  (1.World Map Tool     2.India Map Tool) 
  
