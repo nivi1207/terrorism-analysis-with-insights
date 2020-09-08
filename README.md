@@ -6,7 +6,7 @@ When we run the code a web-page appears ,in that we can initially see two tabs n
  1. Map Tool         
  
  
- 2.Chart Tool
+   2.Chart Tool
  
  Under Map tool we can see two more subtabs  (1.World Map Tool     2.India Map Tool) 
  
